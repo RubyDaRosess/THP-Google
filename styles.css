@@ -1,0 +1,15 @@
+.margin {
+   margin-top:100px;
+  }
+
+.container {
+  text-align: center;
+  height: 60px;
+  }
+
+.searchbar-widht {
+  width: 100px;
+}
+.navbar li :hover{
+  text-decoration:underline;
+}
